@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm an undegraduate Computer Science student at Rennsselaer Polytechnic Institute in Troy, NY who is interested in open source and Linux. I am from the Southern New Hampshire / Boston area. My hobbies include rock / ice climbing, hiking,
+coding projects, film, and games. 
 
-### More Information
+### Employment
 
-A place to include any other types of information that you'd like to include about yourself.
+I am always looking for exciting job opportunities in the software industry. If
+you think I'd be interested in a position, let me know via the email below.
+
+My programming languages include C, C++, C#, Java, Bash, Haskell, Javascript, Assembly.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cowang4@yahoo.com](mailto:cowang4@yahoo.com)
