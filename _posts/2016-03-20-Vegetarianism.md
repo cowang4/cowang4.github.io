@@ -18,7 +18,7 @@ If I can put my morals over my stomach, I will:
 ![cows]({{ site.baseurl }}/images/cows2.jpg)
 
 ### Sources
-[How Much Does Meat Actually Cost?](https://youtu.be/uZDsSnpYZrw) Recommended Watch
+[How Much Does Meat Actually Cost?](https://youtu.be/uZDsSnpYZrw) Recommended
 
 [Stanford](https://woods.stanford.edu/environmental-venture-projects/consequences-increased-global-meat-consumption-global-environment)
 
