@@ -1,6 +1,7 @@
 ---
 published: true
-type: post
+layout: post
+title: Vegetarianism
 ---
 
 ### The Problem
