@@ -1,5 +1,6 @@
 ---
 published: true
+type: post
 ---
 
 
