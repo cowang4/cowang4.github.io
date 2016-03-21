@@ -2,6 +2,7 @@
 published: false
 ---
 
+
 # Why I wish I was Vegetarian
 
 ### The Problem
@@ -13,7 +14,15 @@ Meat is resource expensive. In the U.S. we grow crops for human consumption, cro
 Look, I like meat. I have it with/as three meals a day. It is pretty cheap and tastes good, but the consequences it has on our environment will certianlly be payed for in the future.
 
 If I can put my morals over my stomach, I will:
-**Eat Less Meat.**
+**Eat Less Meat
 
-#### Sources
-[Source 1](https://woods.stanford.edu/environmental-venture-projects/consequences-increased-global-meat-consumption-global-environment)
+
+
+### Sources
+[How Much Does Meat Actually Cost?](https://youtu.be/uZDsSnpYZrw)
+
+[Stanford](https://woods.stanford.edu/environmental-venture-projects/consequences-increased-global-meat-consumption-global-environment)
+
+[PETA](http://www.peta.org/issues/animals-used-for-food/meat-environment/)
+
+
