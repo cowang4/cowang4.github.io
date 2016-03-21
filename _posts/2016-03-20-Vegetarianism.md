@@ -16,7 +16,7 @@ Look, I like meat. I have it with/as three meals a day. It is pretty cheap and t
 If I can put my morals over my stomach, I will:
 **Eat Less Meat
 
-![_config.yml]({{ site.baseurl }}/images/cow2.jpg)
+![_config.yml]({{ site.baseurl }}/images/cow2s.jpg)
 
 ### Sources
 [How Much Does Meat Actually Cost?](https://youtu.be/uZDsSnpYZrw)
