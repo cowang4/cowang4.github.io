@@ -17,7 +17,7 @@ Now I don't normally talk to ducks, but if I want to work at Google...gotta do i
 
 This duck advice is dead simple to give, but _very_ difficult to take. Every student who went to my high school is familiar with this idea, but approximatly none of us ever use it for real. Nobody at Google talks regularlly to their duck. 
 
-_But why not?_ 
+#####_But why not?_ 
 
 It's human nature. If I code review in my head, I look normal. If I code review with my friend/coworker/mentor, I look normal. If I code review with my inanimate, purple, hatless, rubber ducky I look (and feel) insane.
 
