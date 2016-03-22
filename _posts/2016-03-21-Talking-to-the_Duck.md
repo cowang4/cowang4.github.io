@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Talking to the Duck
 ---
