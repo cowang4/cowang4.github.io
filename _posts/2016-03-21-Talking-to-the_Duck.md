@@ -7,7 +7,7 @@ title: Talking to the Duck
 ![]({{site.baseurl}}/images/duck.jpg)
 
 That's my duck. No, it doesn't have a name, it's just _the duck_.
-The duck was given to be by a Googler (hiring manager??) at a how-to-interview-at-Google talk at my university. They gave everyone ducks in fact, though theyhad a nie showing of diversity (you'll notice mine is purple and has no hat). 
+The duck was given to be by a Googler (hiring manager??) at a how-to-interview-at-Google talk at my university. They gave everyone ducks in fact, though they had a nice showing of diversity (you'll notice mine is purple and has no hat). 
 
 They said:
 
