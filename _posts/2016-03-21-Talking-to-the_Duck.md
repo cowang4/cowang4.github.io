@@ -4,10 +4,11 @@ layout: post
 title: Talking to the Duck
 ---
 
+
 ![]({{site.baseurl}}/images/duck.jpg)
 
 That's my duck. No, it doesn't have a name, it's just _the duck_.
-The duck was given to be by a Googler (hiring manager??) at a how-to-interview-at-Google talk at my university. They gave everyone ducks in fact, though they had a nice showing of diversity (you'll notice mine is purple and has no hat). 
+The duck was given to me by a Googler (hiring manager??) at a how-to-interview-at-Google talk at my university. They gave everyone ducks in fact, though they had a nice showing of diversity (you'll notice mine is purple and has no hat). 
 
 They said:
 
@@ -22,4 +23,3 @@ This duck advice is dead simple to give, but _very_ difficult to take. Every stu
 It's human nature. If I code review in my head, I look normal. If I code review with my friend/coworker/mentor, I look normal. If I code review with my inanimate, purple, hatless, rubber ducky I look (and feel) insane.
 
 Oh and I don't actually want to work at Google, the first reason being when I get there, no one will be talking to their ducks.
-
