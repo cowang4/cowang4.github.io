@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+title: Talking to the Duck
 ---
 
 ![]({{site.baseurl}}/images/duck.jpg)
