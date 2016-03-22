@@ -7,7 +7,7 @@ title: Talking to the Duck
 ![]({{site.baseurl}}/images/duck.jpg)
 
 That's my duck. No, it doesn't have a name, it's just _the duck_.
-The duck was given to be by a Googler (hiring manager??) at a how-to-interview-at-Google talk at my university. They gave everyone ducks in fact, though theyhad a nie showing of diversity (you'll notice mine is purple and has no hat). 
+The duck was given to be by a Googler (hiring manager??) at a how-to-interview-at-Google talk at my university. They gave everyone ducks in fact, though they had a nice showing of diversity (you'll notice mine is purple and has no hat). 
 
 They said:
 
@@ -17,7 +17,7 @@ Now I don't normally talk to ducks, but if I want to work at Google...gotta do i
 
 This duck advice is dead simple to give, but _very_ difficult to take. Every student who went to my high school is familiar with this idea, but approximatly none of us ever use it for real. Nobody at Google talks regularlly to their duck. 
 
-_But why not?_ 
+#####_But why not?_ 
 
 It's human nature. If I code review in my head, I look normal. If I code review with my friend/coworker/mentor, I look normal. If I code review with my inanimate, purple, hatless, rubber ducky I look (and feel) insane.
 
