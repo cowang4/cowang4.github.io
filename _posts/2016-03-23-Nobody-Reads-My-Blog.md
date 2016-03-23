@@ -1,5 +1,7 @@
 ---
 published: false
+title: Nobody Reads My Blog
+layout: post
 ---
 
 
