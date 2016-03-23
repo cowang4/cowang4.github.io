@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Nobody Reads My Blog
 layout: post
 ---
