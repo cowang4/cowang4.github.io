@@ -9,8 +9,8 @@ coding, film, and games.
 
 ### Employment
 
-I am always looking for exciting job opportunities in the software industry. Check out my [resume]({{ site.baseurl }}/Resume.pdf). If
-you think I'd be interested in a position, let me know via the email below.
+I am always looking for exciting job opportunities in the software industry.
+If you think I'd be interested in a position or would like a copy of my resume, let me know via the email below.
 
 ### Contact me
 
