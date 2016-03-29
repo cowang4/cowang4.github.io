@@ -16,7 +16,7 @@ As far as I've heard - the only source of information is rumors - the 'school',
 meaning some sect of the administration, plans to take away Athletic funding
 from the student-run Union and budget it seperatly. _But_, they are going to
 take away more money from the Union's budget than the Union was spending on
-Athletics. :0 IKR. They are probably going to use that money to give ~Shirley~
+Athletics. :0 IKR. They are probably going to use that money to give ~~Shirley~~
 The Honorable Dr. Shirley Ann Jackson a raise. From the Union/Student's perspective, the school is trying to take money away from the student club's and activities. The students are very proud that we run our own Union with a multimillion dollar budget. So, I'm left to assume that this meeting time/location on the posters is the planned protest that everyone is talking about. I've even heard a rumor that reporters from The Washington Post among other national publications will attend the protest.
 
 __The resistance will fail. Here's why:__
