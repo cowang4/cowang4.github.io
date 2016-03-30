@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+![]({{ site.baseurl }}/images/Alaska2.jpg)
+### Bio
 
 I'm an undergraduate Computer Science student at Rennsselaer Polytechnic Institute in Troy, NY who is interested in open source and Linux. I am from the Southern New Hampshire and Boston areas. My hobbies include rock and ice climbing, hiking,
 coding, film, and games.
