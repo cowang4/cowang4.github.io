@@ -24,7 +24,7 @@ women-as-leaders-of-countries-party; Mongolia 1953, China 1968, Argentina 1974,
 Being a female President doesn't make Hillary more effective at being
 President, but it does symbolize a big step in the right direction for
 empowering women. Women are currently CEOs of 4.4% of Fortune 500 companies,
-that's twenty-two out of one-hundred [src](https://en.wikipedia.org/wiki/List_of_women_CEOs_of_Fortune_500_companies). It would do a lot for third wave feminism if Hillary Clinton won.
+that's twenty-two out of five-hundred [src](https://en.wikipedia.org/wiki/List_of_women_CEOs_of_Fortune_500_companies). It would do a lot for third wave feminism if Hillary Clinton won.
 Plus, wouldn't it be fun to make jokes about President Bill Clinton being
 a first lady?
 
