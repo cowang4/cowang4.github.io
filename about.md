@@ -20,4 +20,5 @@ If you think I'd be interested in a position or would like a copy of my resume, 
 [cowang4@yahoo.com](mailto:cowang4@yahoo.com)
 
 [github/cowang4](https://github.com/cowang4)
+
 [linkedin/gregcowan](https://www.linkedin.com/in/greg-cowan-664b82115)
