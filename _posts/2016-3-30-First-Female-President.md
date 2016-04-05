@@ -19,7 +19,7 @@ November](http://fivethirtyeight.com/features/trump-will-have-a-hard-time-turnin
 
 All this media coverage of Trump means that we might forget that Hillary Clinton is poised to be the next President of the United States, and in doing so become the first-ever female President of the United States.
 I'll take a brief moment to point out that the U.S. is late to the
-women-as-leaders-of-countries-party; Mongolia 1953, China 1968, Argentina 1974,
+women-as-leaders-of-countries-party; Mongolia 1953, Argentina 1974,
 [etc.](https://en.wikipedia.org/wiki/List_of_elected_and_appointed_female_heads_of_state).
 Being a female President doesn't make Hillary more effective at being
 President, but it does symbolize a big step in the right direction for
