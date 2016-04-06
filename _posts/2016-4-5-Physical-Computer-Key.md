@@ -3,7 +3,8 @@ layout: post
 title: Physical Computer Key
 ---
 
-###U2F
+
+### U2F
 
 I recently ran across a 2-factor authentification protocol called [U2F](https://en.wikipedia.org/wiki/Universal_2nd_Factor). It was developed by Yubico and Google and manifests itself as a physical usb 'key'
 that communicates its identity using [Public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography). My key was $18, but I bought two so $36 (I'll explain why), has no battery, fits on my keychain,
@@ -22,7 +23,8 @@ well.
 Once you get your U2F key(s), to use them on the web, all you need to do is add
 a udev rule for them. This should do the trick:
 
-`sudo wget -O /etc/udev/rules.d/70-u2f.rules https://raw.githubusercontent.com/Yubico/libu2f-host/master/70-u2f.rules`
+~~~
+sudo wget -O /etc/udev/rules.d/70-u2f.rules https://raw.githubusercontent.com/Yubico/libu2f-host/master/70-u2f.rules~~~
 
 Now you can either restart udev or restart your computer.
 
@@ -52,7 +54,7 @@ Run these build commands:
 
 ~~~
 autoreconf --install
-./configure --with-pam-dir=/etc/x86\_64-linux-gnu/security/
+./configure --with-pam-dir=/etc/x86_64-linux-gnu/security/
 make check
 make install
 ~~~
@@ -65,7 +67,7 @@ or your password to unlock the computer. This way you can test to make sure
 your key(s) work before locking yourself out of your computer. Add this:
 
 ~~~
-auth sufficient pam\_u2f.so debug cue
+auth sufficient pam_u2f.so debug cue
 ~~~
 
 Time to associate the key with your username. Make a file
@@ -76,11 +78,15 @@ utility should print out something like:
 ~~~
 myusername:oirwuriuvnwboom(Lots of stuff)djlssflj,sfhsfksfkhHexNumber
 ~~~
+
 In the format:
+
 ~~~
 <username>:<KeyHandle>,<UserKey>
 ~~~
+
 If you have multiple keys, run `pamu2fcfg` for each one and add as such:
+
 ~~~
 <username>:<KeyHandle1>,<UserKey1>:<KeyHandle2>,<UserKey2>
 ~~~
