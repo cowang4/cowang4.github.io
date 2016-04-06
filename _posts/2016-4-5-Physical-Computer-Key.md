@@ -60,7 +60,7 @@ make check
 make install
 ~~~
 
-This should have built the sources and copied a `pam\_u2f.so` file to that
+This should have built the sources and copied a `pam_u2f.so` file to that
 `/lib/x86_64-linux-gnu/security/` directory.
 
 Next we are going to add a line to `/etc/pam.d/common-auth` that allows either the U2F key
