@@ -24,7 +24,8 @@ Once you get your U2F key(s), to use them on the web, all you need to do is add
 a udev rule for them. This should do the trick:
 
 ~~~
-sudo wget -O /etc/udev/rules.d/70-u2f.rules https://raw.githubusercontent.com/Yubico/libu2f-host/master/70-u2f.rules~~~
+sudo wget -O /etc/udev/rules.d/70-u2f.rules https://raw.githubusercontent.com/Yubico/libu2f-host/master/70-u2f.rules
+~~~~~~~~
 
 Now you can either restart udev or restart your computer.
 
