@@ -10,7 +10,7 @@ I recently ran across a 2-factor authentification protocol called [U2F](https://
 that communicates its identity using [Public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography). My key was $18, but I bought two so $36 (I'll explain why), has no battery, fits on my keychain,
 and the spec and source code are online. [Check it out.](https://www.yubico.com/products/yubikey-hardware/)
 U2F can be used by websites that implement
-the protocol as long as your running Google Chrome. The current websites at the time of
+the protocol as long as you're running Google Chrome. The current websites at the time of
 writing that support U2F as a mode of 2-factor authentification include,
 Google, Dropbox, Github, and more. I also use it as a 2nd auth for my OS. I use
 Ubuntu 15.10, so that is what the following guide assumes you want to do as
