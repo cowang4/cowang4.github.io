@@ -1,6 +1,6 @@
 ---
 title: Mathematical Functions and Global Variables
-published: false
+published: true
 layout: post
 ---
 
@@ -23,10 +23,10 @@ variable name._ Well, yeah but, what function is responsible for
 incrementing the counter? The function that parses the instruction, the
 function that executes the instruction, some pipeline manipulation function?
 You are probably beginning to see some problems with this implementation,
-specificlly about what function modified this variable, and when that
+specifically about what function modified this variable, and when that
 modification happens. And this is just for a simple counter. See the line
 `cache_line_t *cache=NULL` at the top. Yes, that global variable is
-a dynamiclly allocated array that holds all of the simulated cache for the
+a dynamically allocated array that holds all of the simulated cache for the
 program. :open_mouth: Oh no! The answer to the question of "what function
 can modify this variable?" is: "probably all of them" and the specific order and
 quality of those modifications is much less unclear than a simple case of
@@ -42,12 +42,12 @@ work and the painter goes and gets the bucket of paint from the spot labeled 're
 and starts painting. He is a little surprised that the paint is blue, since it
 was in the 'red paint' spot, but the woman must know that and have left him the
 color paint she wanted, even though the label doesn't correspond. He paints the
-shed blue, she comes home exausted from work and is furious that the painter
+shed blue, she comes home exhausted from work and is furious that the painter
 painted the shed blue. "I left the can of red paint in that spot yesterday!"
 she says. "It isn't my fault," the painter says, "I did exactly as you said.
 How was I supposed to know the wrong can was there?" Clearly the painter is
 right, he did his job. But the woman did put the red can of paint in the spot
-labeled 'red paint' there only yesterday. Unbenounced to both of them, the
+labeled 'red paint' there only yesterday. Unbeknownst to both of them, the
 woman's husband was up late last night putting the second coat of blue paint on
 his new birdhouse, and in his haste to get to sleep, he mixed up the cans of
 paint when he put them back on the shelf. What a disaster! _That_ is my
@@ -87,7 +87,7 @@ f(x) {
 ~~~
 
 Clearly a program written of mathematical functions is less complex than one
-that depends on state and gloabal variables. Simple design is easier to debug.
+that depends on state and global variables. Simple design is easier to debug.
 It allows the function to be freed from checking inputs and states of global
 or member variables. A function can assume that its arguments are valid, since
 it is the parent function's responsibility to pass in valid variables.
