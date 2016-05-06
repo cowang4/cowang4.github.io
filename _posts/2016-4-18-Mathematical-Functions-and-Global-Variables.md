@@ -29,7 +29,7 @@ modification happens. And this is just for a simple counter. See the line
 a dynamically allocated array that holds all of the simulated cache for the
 program. :open_mouth: Oh no! The answer to the question of "what function
 can modify this variable?" is: "probably all of them" and the specific order and
-quality of those modifications is much less unclear than a simple case of
+quality of those modifications is much more unclear than a simple case of
 incrementing a counter.
 
 Okay, forget all of that for a minute for a short example. Here is a short
