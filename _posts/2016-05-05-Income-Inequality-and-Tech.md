@@ -43,3 +43,9 @@ the American Dream - but it's an inevitability we will have to swallow or else
 most of us won't be able to afford the luxuries of such economic efficiency.
 
 I guess this makes me a Marxist. :smiling_imp:
+
+## Sources
+
+[Great Youtube Video](https://youtu.be/QPKKQnijnsM)
+[](https://youtu.be/7Pq-S557XQU)
+[](http://inequality.org/income-inequality/)
