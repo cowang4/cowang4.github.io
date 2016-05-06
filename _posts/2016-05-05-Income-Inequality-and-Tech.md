@@ -47,6 +47,9 @@ I guess this makes me a Marxist. :smiling_imp:
 ## Sources
 
 I can't compete with the talented writers of these two youtube videos.
+
 [Income Inequality Video](https://youtu.be/QPKKQnijnsM)
+
 [Humans Need Not Apply](https://youtu.be/7Pq-S557XQU)
-[](http://inequality.org/income-inequality/)
+
+[Income Inequality Source](http://inequality.org/income-inequality/)
