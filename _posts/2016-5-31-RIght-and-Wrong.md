@@ -4,7 +4,7 @@ title: Right and Wrong
 published: true
 ---
 
-![]({{ site.baseurl }}/images/Spectrum.PNG)
+![From Kurzgesagt's video "What are you?"]({{ site.baseurl }}/images/Spectrum.PNG)
 
 It is common knowledge in the study of philosophy that though people tend to think in binary, black and white, and right or wrong, that many parts of real life are not that way. Moral questions, truths, and facts are sometimes better expressed as spectrums.
 
@@ -23,9 +23,9 @@ We think in human language (or do we?), but it can be powerful to step back and 
 
 Now try to answer the question of: how much of an asshole is this guy? Where does this guy fall on the spectrum from drill sergeant to librarian? Well, it’s hard to say. Maybe he didn’t see you before he cut you off, or maybe he didn’t see that you got rear ended because of it, maybe his wife is in the passenger seat giving birth to triplets and they are rushing to the hospital. Thinking about spectrums is thinking about perspective and human judgment, it can show that our judgement is more a reflection of ourselves than the ones we are judging. Thinking with perspective in mind makes for a more intelligent decision making process, and dare I say a healthier and happier life. Sure, not by much, but happiness is a spectrum, isn’t it? 
 
-##Sources
+## Sources
 
 I first came across the idea that not everything is black and white at a summer camp about quests in literature. The teacher who taught me the idea explained it better than this post, and so deserves this mention. You know who you are.
 
-I also was just reminded of this idea in a [youtube video](https://youtu.be/JQVmkDUkZT4) about a different topic by Kurzgesagt.
+I also was just reminded of this idea in a [youtube video](https://youtu.be/JQVmkDUkZT4) about a different topic by Kurzgesagt. The video is also where the picture from the top comes from.
 
