@@ -4,7 +4,7 @@ title: Right and Wrong
 published: true
 ---
 
-![]({{ site.baseurl }}/images/Spectrum.png)
+![]({{ site.baseurl }}/images/Spectrum.PNG)
 
 It is common knowledge in the study of philosophy that though people tend to think in binary, black and white, and right or wrong, that many parts of real life are not that way. Moral questions, truths, and facts are sometimes better expressed as spectrums.
 
