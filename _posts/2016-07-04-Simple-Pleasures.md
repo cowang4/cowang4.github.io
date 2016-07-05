@@ -2,6 +2,7 @@
 title: Simple Pleasures
 layout: post
 published: true
+---
 
 In the fight against consumerism, I see minimalism as the natural alternative. Consumerism is buying more than you need, minimalism is buying only what you need. But what to do with the money left over? Invest for retirement? Sure, rewarding myself in 50 years is noble, but what about the me that exists now? What purchases could improve my life? What can I buy without the guilt of consumerism? What are some simple pleasures of life?
 
