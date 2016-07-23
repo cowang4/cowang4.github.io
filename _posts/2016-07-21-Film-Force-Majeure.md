@@ -4,7 +4,7 @@ layout: post
 published: true
 ---
 
-![]({{ site.baseurl }}/images/force-majure.jpg)
+![]({{ site.baseurl }}/images/force-majeure.jpg)
 
 I found this Swedish film on A.V. Club's list of top [50 comedies](http://www.avclub.com/article/50-best-comedies-2000-239056?utm_source=pocket&utm_medium=email&utm_campaign=pockethits). It's pretty ironic because there are no scripted jokes in the whole film.
 What comedy there is in the piece is situational or visual. The most memorable comedic moment was during last act when Tomas had a complete breakdown at night in the hallway of the hotel in his underwear while his wife, Ebba, tried to get him to shut up with the stone-faced French janitor leaning against the railing across the balcony and coyly lighting a smoke to watch. I chuckled at the sheer contrast between the emotionless Frenchman and the grown Swedish man's meltdown of epic proportions. Also notable is a hilarious rave scene that breaks up the drama with a couple minutes of drunken manly screaming. I'm starting to doubt the vocabularies of the journalists who wrote the top 50 list, the films at the bottom of this list - including this one - are more than worth a watch but calling them great comedies is a major stretch. Don't expect to burst your lungs laughing at this movie, instead expect a focused pull on the heartstrings as you watch a Swedish family's vacation at a French ski resort pull the family apart and call into question the father's manliness.
