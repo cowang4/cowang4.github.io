@@ -1,5 +1,6 @@
 ---
 title: Code Less Think More
+layout: post
 published: true
 ---
 
