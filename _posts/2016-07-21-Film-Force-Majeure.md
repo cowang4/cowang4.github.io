@@ -1,5 +1,5 @@
 ---
-title: Film: Force Majeure
+title: Film - Force Majeure
 layout: post
 published: true
 ---
