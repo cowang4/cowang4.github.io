@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/cowang4
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gregcowan.me
+  * I am cowang4 (https://keybase.io/cowang4) on keybase.
+  * I have a public key with fingerprint BC2F 3E83 D010 5508 02FE  42F0 F03E D041 34FE 16B5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d7f6535798f70974624f7065af4d5af6fd885e6fddc765fbd5a3d6dcbd8449710a",
+            "fingerprint": "bc2f3e83d010550802fe42f0f03ed04134fe16b5",
+            "host": "keybase.io",
+            "key_id": "f03ed04134fe16b5",
+            "kid": "0101d7f6535798f70974624f7065af4d5af6fd885e6fddc765fbd5a3d6dcbd8449710a",
+            "uid": "d6b20fb072003dcc04cf22b27fd22119",
+            "username": "cowang4"
+        },
+        "service": {
+            "hostname": "gregcowan.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1499467441,
+    "expire_in": 157680000,
+    "prev": "95a62ab5bb391fa1d0ce01956e04b3980796d3f98b01d29c0d5d04a4e8839139",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMM+AnicrVJtUFRVGF7aRWZJU3QgNGvkilnNAufevZ8L5EfOmG6JlhgIzHbvPecu
+N/Dusrt8xfDljKQzRJASTUGWlDRuYDkgaWIDyUaFiTCRDRaGOPkxiquDZSh0LmP/
++tn5cd7zvud5nvO+z5xT84yG8JCbzw6soaejOkJ+6K7PN6S/+sgXJYTkgsWErYTI
+QbMB5ULk9TlyVEjYCEACEnIKy1gZTuAVDggczVI0PrCMqNAQb6wCeZ5BOECZYxlF
+wkUrZKEsQZ6mBY4EImEhFFVzIo/bo2o+LCvJlGJFvBVifYYBPKAURFMKUIAVQUCT
+VlpBJCsxmJjt8uoM3JwkelG86sI1nDhm2/sP/P/cd/6sHGQlCigS4CgArFCWAS0r
+FCVRnAIpiiQFHehFHk3cgTBadhWKmpMmSi0ELhaoMtJ91Qd5AHB6kHMWFI9TC+H2
+uHwu2ZWLb7J9PrdNJ/qK3TqyEEmOBxoOSdUgdhETCpDHq7o0wkZipOxTdVGSFgSa
+5WiatBCoyK16kEPVEQzH8gAv/RlUgCUFRmQpUWIkySqQikhCICNACgyLAI1LPOAE
+FloVgZewhZQgA8hgi0Ua8TwmWPVZvShPcxE2FrcpOrGkV3Vqoi/fg4jSnu5MkyEk
+3DAn9CH9dxnCzQv+/XMFxPzpVRnrkpri2nvXlby4oN99NybQdmaiMVD43I1zhIH/
+eWjssu32KkeF9rR5X+C11iVvdn0XtsXckLisrWu4Ieflzsnfkp3J9Tsqqp/YFWEu
+fbeh4vmzw3f89SvmiqPBmqqY1rXFpp8a252fdESdby6sHXsSbjlftNFvZtmL2u6m
+vKJK36c28ZtLd4yWSAu43p56vyXmeuuVbQPDGV0j/q9jEheW00zpks8OtKX3mfNM
+Ccmr46j+m1e3xcpXj+WeCekrG4t7o+yPA+Zbxrc2nO402WNPjppij0Q9Nb+mvM52
+LOropozENfszuYTunsH3/F9mZxkXL/NNqZnFxrPBX7Om519I48LjDbV7A2/nhC3/
+eyT11CX7oQuNEUsF8Uog4+B9w56v4lpmpOh4IJywxcB54bujM01T9hQhiPpLD9ep
+prlr+8rsnb2mJmQcuVa7fnzl+82DNyRTYHHOSwI9Zctra6jcvJf8pfCFlM+THp3Y
+njY+Ud53etdAYF+gJsCl/X7vmY13b7lGJ6iki9vt9oNG5XbH8qzKIysWjR+9t7qn
+4trWjy5z1R92BDu/TR0yr09I2VCc1xs8+f1+T8vgnMOP/flBVm1VfGRk8iszx6sr
+Uzb3n5h8J/Tjv8rORadPRIXCiMlkw7hmfH3R8Rly005ncGjpwoQft3qK+LBD1T0P
++6ua6+L8j6fsrFn5D94Uugc=
+=2gg3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cowang4
+
+==================================================================
+
